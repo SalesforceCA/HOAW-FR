@@ -1,2 +1,2 @@
-# HOAW
-Workshop repository for the Salesforce Hands-on Admin Workshop
+# HOAW FR
+Répertoire d'atelier pour l'atelier pratique pour les administrateurs Salesforce
