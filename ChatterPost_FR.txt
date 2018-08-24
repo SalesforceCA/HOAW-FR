@@ -1,0 +1,1 @@
+@[{![Inscription__c].Programme_de_Camp__c.OwnerId}] veuillez noter que {![Inscription__c].Campeur__c.FirstName} a une allergie aux noix. Nous avons averti leur tuteur {![Inscription__c].Tuteur__c.FirstName} de notre plan d'action.
